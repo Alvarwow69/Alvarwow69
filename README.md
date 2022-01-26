@@ -1,8 +1,8 @@
 ### Hi there, I'm Guillaume ⚓
 
 ## I'm a student, developer
-- 🐟 I'm working on my Graphical Engine to learn 3D programming
-- 🏆 2021 Goal -> Make my Engine usable for everyone
+- 🐟 I'm working on [ShipWreck Engine](https://github.com/Creative-Rift), my Graphical Engine to learn 3D programming
+- 🏆 2022 Goal -> Make my Game Editor with my Engine and develop 
 - 📖 I'm currently learning at Epitech
 
 ### Find me:

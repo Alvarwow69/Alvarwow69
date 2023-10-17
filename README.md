@@ -1,9 +1,9 @@
-### Hi there, I'm Guillaume ⚓
+### Ahoy Captain, I'm Guillaume (Alvarwow69 / CptnFish) ⚓
 
-## I'm a student, developer
-- 🐟 I'm working on [ShipWreck Engine](https://github.com/Creative-Rift), my Graphical Engine to learn 3D programming
-- 🏆 2022 Goal -> Make my Game Editor with my Engine and develop 
-- 📖 I'm currently learning at Epitech
+## I'm student and graphical developer
+- 🐟 I'm working on [ShipWreck Engine](https://github.com/Creative-Rift), this projet allow to improve my graphical competencies
+- 🏆 2023 Goal -> Improve my project and make it open source
+- 📖 I'm currently learning at Epitech in 5th year
 
 ### Find me:
 
@@ -11,7 +11,7 @@
 
 <br />
 
-### Languages ans Tools:
+### Languages and Tools:
 
 <img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
 <img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/cpp/cpp.png" />

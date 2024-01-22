@@ -1,8 +1,8 @@
 ### Ahoy Captain, I'm Guillaume (Alvarwow69 / CptnFish) ⚓
 
 ## I'm student and graphical developer
-- 🐟 I'm working on [ShipWreck Engine](https://github.com/Creative-Rift), this projet allow to improve my graphical competencies
-- 🏆 2023 Goal -> Improve my project and make it open source
+- 🐟 I'm working on [Creative Rift](https://github.com/Creative-Rift), this is a groupe of my graphicals project.
+- 🏆 2024 Goal -> Develop Creative Rift to provide free and open sources tools for graphicals projects
 - 📖 I'm currently learning at Epitech in 5th year
 
 ### Find me:
